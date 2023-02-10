@@ -1,4 +1,4 @@
-,año,registrados,mes_map,estacion_map,dia_semana_map,clima_map,vacaciones_map,cod_SI,sensacion_termica_standar,humedad_standar,viento_standar
+,año,registrados,mes_map,estacion_map,dia_semana_map,clima_map,vacaciones_map,laborable_cod,sensacion_termica_standar,humedad_standar,viento_standar
 0,0,654,0,0,0,1,0,0,-0.6808176679882338,1.252342778139905,-0.38783297265473177
 1,0,670,0,0,0,1,1,1,-0.741507266995984,0.4809955684788318,0.7488989093411889
 2,0,1229,0,0,1,2,1,1,-1.7503444674147217,-1.3380726136983871,0.7459310420548092
