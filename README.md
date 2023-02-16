@@ -1,1 +1,1 @@
-# proyecto-promo-C-modulo-3-team-2
+# project-promo-c-modulo-3-team-2
